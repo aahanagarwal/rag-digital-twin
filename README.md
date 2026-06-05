@@ -1,4 +1,4 @@
-# Digital Twin of Richard Feynman
+# Digital Twin of Richard Feynman [[Demo Video]](https://www.loom.com/share/25607f7a8c0a458eb0cdcd59d1270f48)
 
 _An Advanced RAG-Powered AI Conversational Agent_
 

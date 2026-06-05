@@ -12,3 +12,6 @@ python-dotenv
 pydantic
 transformers
 torch
+python-multipart
+cloudscraper
+beautifulsoup4
